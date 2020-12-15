@@ -1,0 +1,5 @@
+﻿  Snake_kursovay.cpp
+C:\Users\leshk\source\repos\Snake_kursovay\Snake_kursovay\Snake_kursovay.cpp(19,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\leshk\source\repos\Snake_kursovay\Snake_kursovay\Snake_kursovay.cpp(19,24): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\leshk\source\repos\Snake_kursovay\Snake_kursovay\Snake_kursovay.cpp(316,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Snake_kursovay.vcxproj -> C:\Users\leshk\source\repos\Snake_kursovay\Debug\Snake_kursovay.exe
